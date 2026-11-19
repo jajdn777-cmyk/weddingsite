@@ -1,0 +1,6 @@
+{
+  "name": "Omar & Ms. Shuaibi · Wedding RSVP",
+  "description": "Mobile-first floral pink RSVP invitation for the celebration of Omar Faryabi and Ms. Shuaibi at Taj Continental, Faryal Hall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
